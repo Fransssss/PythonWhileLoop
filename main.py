@@ -25,7 +25,7 @@ while choice != "E" and choice != "e":                                          
     else:
         print("Invalid input")
 
-    print("\n== Library Menu ==\n")
+    print("\n== Library Menu ==")
     print("1.Library hour for today ")
     print("2.Library Facility")
     print("3.Find book")
