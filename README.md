@@ -15,4 +15,5 @@ Basic while loop with Python
 
 ![image](https://user-images.githubusercontent.com/97081479/174494441-431ca631-9a10-4cff-9e69-37fd6fb78593.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/97081479/174494642-8ff11f2e-abe4-4d57-83be-d024c3eca237.png)
+
